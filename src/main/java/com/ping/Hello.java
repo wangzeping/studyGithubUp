@@ -16,6 +16,7 @@ public class Hello {
 		System.out.println("origin");
 		System.out.println("afadsa");
 		System.out.println("hello");
+		System.out.println("潘尚青");
 	}
 
 }

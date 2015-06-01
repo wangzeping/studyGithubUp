@@ -14,6 +14,7 @@ public class Hello {
 		System.out.println("come on");
 		System.out.println("再来一次。。。");
 		System.out.println("origin");
+		System.out.println("afadsa");
 	}
 
 }

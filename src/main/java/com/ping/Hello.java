@@ -13,6 +13,7 @@ public class Hello {
 		System.out.println("bbb");
 		System.out.println("come on");
 		System.out.println("再来一次。。。");
+		System.out.println("origin");
 	}
 
 }

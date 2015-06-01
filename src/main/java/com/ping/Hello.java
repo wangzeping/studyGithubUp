@@ -17,6 +17,7 @@ public class Hello {
 		System.out.println("afadsa");
 		System.out.println("hello");
 		System.out.println("潘尚青");
+		System.out.println("手动的");
 	}
 
 }

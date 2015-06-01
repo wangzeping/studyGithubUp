@@ -14,8 +14,8 @@ public class Hello {
 		System.out.println("hello");
 		System.out.println("潘尚青");
 		System.out.println("手动的");
-		System.out.println("从github下传到eclipse中....")
-		System.out.println("aaa")
+		System.out.println("从github下传到eclipse中....");
+		System.out.println("aaa");
 	}
 
 }

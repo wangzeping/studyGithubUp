@@ -12,6 +12,7 @@ public class Hello {
 		System.out.println("是否可以上传中文");
 		System.out.println("bbb");
 		System.out.println("come on");
+		System.out.println("再来一次。。。");
 	}
 
 }

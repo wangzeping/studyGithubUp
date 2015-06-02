@@ -14,6 +14,7 @@ public class Hello {
 		System.out.println("快乐e家");
 		System.out.println("失败！");
 		System.out.println("我爱我家1");
+		System.out.prinlnt("世上只有妈妈好！")
 	}
 
 }

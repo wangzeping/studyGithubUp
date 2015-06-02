@@ -17,6 +17,7 @@ public class Hello {
 		System.out.println("世上只有妈妈好！");
 		System.out.println("冲突！");
 		System.out.println("bbb");
+		System.out.println("aa");
 		
 	}
 

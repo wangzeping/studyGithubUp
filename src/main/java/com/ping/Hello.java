@@ -8,17 +8,12 @@ package com.ping;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("再来一次。。。");
-		System.out.println("origin");
-		System.out.println("afadsa");
-		System.out.println("hello");
-		System.out.println("潘尚青");
-		System.out.println("手动的");
 		System.out.println("从github下传到eclipse中....");
 		System.out.println("aaa");
 		System.out.println("泽平");
 		System.out.println("快乐e家");
 		System.out.println("失败！");
+		System.out.println("我爱我家1");
 	}
 
 }

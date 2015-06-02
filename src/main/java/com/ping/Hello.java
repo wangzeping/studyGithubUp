@@ -17,7 +17,12 @@ public class Hello {
 		System.out.println("世上只有妈妈好！");
 		System.out.println("冲突！");
 		System.out.println("bbb");
+<<<<<<< HEAD
 		System.out.println("cc");
+=======
+		System.out.println("aa");
+		
+>>>>>>> branch 'master' of https://github.com/wangzeping/studyGithubUp.git
 	}
 
 }

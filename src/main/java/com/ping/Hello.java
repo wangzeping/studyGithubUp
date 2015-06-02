@@ -18,6 +18,7 @@ public class Hello {
 		System.out.println("aaa");
 		System.out.println("泽平");
 		System.out.println("快乐e家");
+		System.out.println("失败！");
 	}
 
 }

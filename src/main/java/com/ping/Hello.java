@@ -19,7 +19,7 @@ public class Hello {
 		System.out.println("bbb");
 		System.out.println("cc");
 		System.out.println("aa");
-		System.out.println("2");
+		System.out.println("2aa");
 	}
 
 }

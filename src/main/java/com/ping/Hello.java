@@ -33,5 +33,9 @@ public class Hello {
 	public static void test3(){
 		System.out.println("我要把代码提交到远程服务器上....");
 	}
+	
+	public static void test4(){
+		System.out.println("再一次测试....");
+	}
 
 }

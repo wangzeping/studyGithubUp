@@ -30,4 +30,8 @@ public class Hello {
 		System.out.println("更新代码....");
 	}
 
+	public static void test3(){
+		System.out.println("我要把代码提交到远程服务器上....");
+	}
+
 }

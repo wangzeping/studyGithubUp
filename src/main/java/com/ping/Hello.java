@@ -22,8 +22,12 @@ public class Hello {
 		System.out.println("2aa");
 	}
 	
-	public void static test(){
+	public static void test(){
 		System.out.println("我要学习git....");
+	}
+	
+	public static void test2(){
+		System.out.println("更新代码....");
 	}
 
 }

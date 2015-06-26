@@ -37,5 +37,9 @@ public class Hello {
 	public static void test4(){
 		System.out.println("再一次测试....");
 	}
+	
+	public static void test5(){
+		System.out.println("当天金融在线....");
+	}
 
 }

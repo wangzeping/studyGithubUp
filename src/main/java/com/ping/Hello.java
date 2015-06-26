@@ -41,5 +41,9 @@ public class Hello {
 	public static void test5(){
 		System.out.println("当天金融在线....");
 	}
+	
+	public static void test6(){
+		System.out.println("当天金融在线....");
+	}
 
 }

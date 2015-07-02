@@ -11,4 +11,8 @@ public class GitHubUp{
     public void test2(){
     	System.out.println("I come to here...");
     }
+    
+    public void test4(){
+    	System.out.println("bbbbb");
+    }
 }

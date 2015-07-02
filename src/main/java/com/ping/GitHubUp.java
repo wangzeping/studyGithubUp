@@ -9,5 +9,9 @@ public class GitHubUp {
 	public void down(){
 		System.out.println("down....");
 	}
+	
+	public void left(){
+		System.out.println("left....");
+	}
 
 }

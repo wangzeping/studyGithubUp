@@ -6,6 +6,8 @@ package com.ping;
  *
  */
 public class Hello {
+	
+	public final static String name = "ZEPING";
 
 	public static void main(String[] args) {
 		System.out.println("从github下传到eclipse中....");
@@ -44,6 +46,10 @@ public class Hello {
 	
 	public static void test6(){
 		System.out.println("当天金融在线....");
+	}
+	
+	public static void test7(){
+		System.out.println("I want to go home...");
 	}
 
 }

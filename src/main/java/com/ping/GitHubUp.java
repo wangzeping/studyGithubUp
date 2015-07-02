@@ -23,7 +23,7 @@ public class GitHubUp{
     	System.out.println("bbbbb");
     }
     
-    public void test7(){
-    	System.out.println("mmm");
+    public void test6(){
+        System.out.println("aaaa");
     }
 }

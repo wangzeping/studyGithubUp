@@ -18,4 +18,8 @@ public class GitHubUp{
     public void test4(){
     	System.out.println("bbbbb");
     }
+    
+    public void test5(){
+    	System.out.println("bbbbb");
+    }
 }

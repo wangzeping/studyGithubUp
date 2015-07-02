@@ -22,4 +22,8 @@ public class GitHubUp{
     public void test5(){
     	System.out.println("bbbbb");
     }
+    
+    public void test7(){
+    	System.out.println("mmm");
+    }
 }

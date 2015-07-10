@@ -4,4 +4,6 @@ public class Wang{
 	private Integer age;
 
 	private String sex;
+
+	private double salary;
 }
